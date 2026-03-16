@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/next-image-components",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Next.js Image wrappers with skeleton loading and error fallback",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -55,8 +55,12 @@
     "url": "git+https://github.com/philiprehberger/ts-next-image-components.git"
   },
   "homepage": "https://github.com/philiprehberger/ts-next-image-components#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/ts-next-image-components/issues" },
+  "bugs": {
+    "url": "https://github.com/philiprehberger/ts-next-image-components/issues"
+  },
   "author": "Philip Rehberger",
-  "engines": { "node": ">=18.0.0" },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "sideEffects": false
 }
